@@ -12,6 +12,17 @@ mchihuahua は [Datadog monitors](http://docs.datadoghq.com/guides/monitoring/) 
 
 ## Installation
 
+### For MacOS X
+
+1. [こちら](https://github.com/inokappa/mchihuahua/releases/download/v0.0.1/x86_64-apple-darwin14.tar.gz)からダウンロードする
+1. ダウンロードしたファイルを解凍する
+1. 解凍したファイルをパスが通ったディレクトリに置く
+
+### For Linux
+
+1. [こちら](https://github.com/inokappa/mchihuahua/releases/download/v0.0.1/x86_64-pc-linux-gnu.tar.gz)からダウンロードする
+1. ダウンロードしたファイルを解凍する
+1. 解凍したファイルをパスが通ったディレクトリに置く
 
 ## Usage
 
